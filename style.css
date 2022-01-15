@@ -1,0 +1,47 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+    
+}
+
+#note{
+    font-size: 30px;
+}
+
+#button1{
+    font-size: 20px;
+}
+
+#button2{
+    font-size: 20px;
+}
+
+#button3{
+    font-size: 20px;
+}
+
+#button4{
+    font-size: 20px;
+}
+
+#button5{
+    font-size: 20px;
+}
