@@ -17,8 +17,8 @@ body{
 }
 
 canvas{
-    box-shadow: 10px 10px 10px gray;
-    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(240, 10, 10);
+    border-radius: 20px;
     
 }
 
