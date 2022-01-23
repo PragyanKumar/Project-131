@@ -7,7 +7,7 @@ img=""
 Status=""
 objects=[]
 function preload(){
-    img=loadImage("bathroom.jpg")
+    img=loadImage("bathroom.jpeg")
 }
 
 function setup(){
